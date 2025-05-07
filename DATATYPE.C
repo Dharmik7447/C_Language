@@ -3,7 +3,7 @@
 
 main(){
   int a,b,c;
-  float d;
+  float e;
 
 
 
@@ -13,7 +13,7 @@ main(){
   c=a+b;
   d=3.14;
   printf("Sum of %d and %d is %d\n",a,b,c);
-  printf("value of pie is %f",d);
+  printf("value of pie is %f",e);
   getch();
 }
 
